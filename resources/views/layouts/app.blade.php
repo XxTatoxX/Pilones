@@ -31,10 +31,6 @@
     max-width:300px;
 
 }
-.separacion{
-    
-
-}
 
     /*.card input{
         margin-left: 180px;
