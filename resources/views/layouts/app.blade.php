@@ -4,6 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
+    #inputState{
+        width:300px;
+    }
     .card label{
         font: oblique bold 120% cursive;
     }
